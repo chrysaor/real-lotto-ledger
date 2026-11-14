@@ -1,0 +1,30 @@
+{
+  "draw_date": "2026-11-14",
+  "prize_total": 10000,
+  "prizes": {
+    "first": 3103164459,
+    "second": 46547467,
+    "third": 1491906
+  },
+  "ranks": {
+    "fifth": 2,
+    "first": 0,
+    "fourth": 0,
+    "second": 0,
+    "third": 0
+  },
+  "round": 1250,
+  "source": "dhlottery",
+  "total_draws": 32,
+  "winning": {
+    "bonus": 8,
+    "numbers": [
+      1,
+      5,
+      18,
+      23,
+      27,
+      28
+    ]
+  }
+}
