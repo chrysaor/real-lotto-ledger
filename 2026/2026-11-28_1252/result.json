@@ -1,0 +1,31 @@
+{
+  "draw_date": "2026-11-28",
+  "late_seal": false,
+  "prize_total": 0,
+  "prizes": {
+    "first": 0,
+    "second": 0,
+    "third": 0
+  },
+  "ranks": {
+    "fifth": 0,
+    "first": 0,
+    "fourth": 0,
+    "second": 0,
+    "third": 0
+  },
+  "round": 1252,
+  "source": "dhlottery",
+  "total_draws": 17,
+  "winning": {
+    "bonus": 43,
+    "numbers": [
+      9,
+      19,
+      23,
+      28,
+      33,
+      44
+    ]
+  }
+}
